@@ -1,0 +1,14 @@
+/Users/jshaw/Documents/EndpointDirectoryTree/EndpointDirectoryTree/bin/Release/net8.0/EndpointDirectoryTree
+/Users/jshaw/Documents/EndpointDirectoryTree/EndpointDirectoryTree/bin/Release/net8.0/EndpointDirectoryTree.deps.json
+/Users/jshaw/Documents/EndpointDirectoryTree/EndpointDirectoryTree/bin/Release/net8.0/EndpointDirectoryTree.runtimeconfig.json
+/Users/jshaw/Documents/EndpointDirectoryTree/EndpointDirectoryTree/bin/Release/net8.0/EndpointDirectoryTree.dll
+/Users/jshaw/Documents/EndpointDirectoryTree/EndpointDirectoryTree/bin/Release/net8.0/EndpointDirectoryTree.pdb
+/Users/jshaw/Documents/EndpointDirectoryTree/EndpointDirectoryTree/obj/Release/net8.0/EndpointDirectoryTree.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jshaw/Documents/EndpointDirectoryTree/EndpointDirectoryTree/obj/Release/net8.0/EndpointDirectoryTree.AssemblyInfoInputs.cache
+/Users/jshaw/Documents/EndpointDirectoryTree/EndpointDirectoryTree/obj/Release/net8.0/EndpointDirectoryTree.AssemblyInfo.cs
+/Users/jshaw/Documents/EndpointDirectoryTree/EndpointDirectoryTree/obj/Release/net8.0/EndpointDirectoryTree.csproj.CoreCompileInputs.cache
+/Users/jshaw/Documents/EndpointDirectoryTree/EndpointDirectoryTree/obj/Release/net8.0/EndpointDirectoryTree.dll
+/Users/jshaw/Documents/EndpointDirectoryTree/EndpointDirectoryTree/obj/Release/net8.0/refint/EndpointDirectoryTree.dll
+/Users/jshaw/Documents/EndpointDirectoryTree/EndpointDirectoryTree/obj/Release/net8.0/EndpointDirectoryTree.pdb
+/Users/jshaw/Documents/EndpointDirectoryTree/EndpointDirectoryTree/obj/Release/net8.0/EndpointDirectoryTree.genruntimeconfig.cache
+/Users/jshaw/Documents/EndpointDirectoryTree/EndpointDirectoryTree/obj/Release/net8.0/ref/EndpointDirectoryTree.dll
