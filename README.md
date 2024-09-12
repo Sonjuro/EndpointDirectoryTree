@@ -1,6 +1,3 @@
-dotnet build -c release
-dotnet run -c release
-
 # EndpointDirectoryTree
 
 EndpointDirectoryTree is a C# Command Line Application to simulate a directory tree.
